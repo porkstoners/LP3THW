@@ -7,3 +7,4 @@ print("I could have a code like this.") # and the comment after is ignored
 # print("This will not run")
 
 print("This will run")
+print("Well What about this ### can i print these hashes ??? ")
