@@ -1,10 +1,24 @@
-# A comment, this is so you can read your program laters.
-# Anything after the # is ignored by python
+print("I will start with a count of my chickens")
 
-print("I could have a code like this.") # and the comment after is ignored 
+print("Hens", 25 + 30 / 6)
+print("Roosters", 100 - 25 * 3 % 4)
 
-# You can alos use a comment to "disable" or comment out code:
-# print("This will not run")
+print("Now i will count the eggs..")
 
-print("This will run")
-print("Well What about this ### can i print these hashes ??? ")
+print(3 + 2 + 1 -5 + 4 % 2 - 1 / 4 + 6)
+
+print("Is it true that 3 + 2 < 5 -7?")
+
+print(3 + 2 < 5 - 7)
+
+print("What is 3 + 2?", 3 + 2 )
+
+print("What is 3 - 7?", 5 - 7)
+
+
+print("Oh thats why its false ")
+
+print("How about some more")
+
+print("Is it great?", 5 > -2)
+print("Is it greater or equal?", 5 >= -2)

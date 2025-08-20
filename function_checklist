@@ -1,0 +1,11 @@
+# This is checklist to make sure you never forget how to create a function #
+
+# A Function always starts with 
+def 
+# A functions name can only contain characters and _ characters 
+def _function_name 
+# The name is always followed by an open parentheses
+def _function_name (
+# Arguments go in the parentheses seperated by a commma
+ # arguments must be unique
+def _function_name (file1, file2):
